@@ -1,4 +1,4 @@
-def Author
+Class Author
   
   def initialize(name)
     @name = name
